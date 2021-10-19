@@ -3,7 +3,7 @@ Udacity data science nanodegree project 1
 
 ### Table of contents
 
-1. [Libraries used](#Libraries used)
+1. [Libraries used](#Libraries)
 2. [Project Inspiration](#Inspiration)
 3. [File Descriptions](#files)
 4. [Data Insights](#Insights)
