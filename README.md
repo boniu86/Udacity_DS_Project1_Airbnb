@@ -14,7 +14,7 @@ Udacity data science nanodegree project 1
 
 Python version 3.0.
 Plugins and imports used were: Pandas, MatplotLib.
-Libraries:Pandas,Scikit-learn, numpy, matplotlib, seaborn.
+Libraries:Pandas,Scikit-learn, numpy, matplotlib, seaborn, collections
 
 
 ## Project Inspiration<a name="Inspiration"></a>
