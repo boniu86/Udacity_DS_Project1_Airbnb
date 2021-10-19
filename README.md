@@ -38,7 +38,7 @@ I have few questions
 
 *__data.csv__* : 3 data sets, calender.csv, listing.csv, and review.csv
 
-*__pic.png__* pictures export from python that I used for blog
+*__pic.png__* :  pictures export from python that I used for blog
 
 ## Insights<a name="insights"></a>
 
