@@ -34,9 +34,9 @@ I have few questions
 
 ## File Descriptions <a name="files"></a>
 
-*__project_1.ipynb__* :- Jupyter notebook containing all the codes and results
+*__project_1.ipynb__* : Jupyter notebook containing all the codes and results
 
-*__data.csv__* :- 3 data sets, calender.csv, listing.csv, and review.csv
+*__data.csv__* : 3 data sets, calender.csv, listing.csv, and review.csv
 
 *__pic.png__* pictures export from python that I used for blog
 
@@ -46,4 +46,4 @@ The exploration and anlyasis of this data has been posted in Medium as a blogspo
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Data :- Kaggle [here](https://www.kaggle.com/airbnb/boston)
+Data : Kaggle [here](https://www.kaggle.com/airbnb/boston)
