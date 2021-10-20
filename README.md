@@ -34,7 +34,7 @@ I have few questions
 
 ## File Descriptions <a name="files"></a>
 
-*__project_1.ipynb__* : Jupyter notebook containing all the codes and results
+*__project1.ipynb__* : Jupyter notebook containing all the codes and results
 
 *__data.csv__* : 3 data sets, calender.csv, listing.csv, and review.csv
 
