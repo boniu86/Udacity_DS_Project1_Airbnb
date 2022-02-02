@@ -49,3 +49,5 @@ The exploration and anlyasis of this data has been posted in Medium as a blogspo
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Data : Kaggle [here](https://www.kaggle.com/airbnb/boston)
+
+Medium Post: [Blog](https://medium.com/@ruoruolove/walk-into-boston-with-airbnb-eee4fb583eac)
